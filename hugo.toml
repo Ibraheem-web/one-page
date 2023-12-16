@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://github.com/Ibraheem-web/one-page"
 languageCode = "en-us"
 title = "My Digital Garden"
 theme = "hugo-digital-garden-theme"
